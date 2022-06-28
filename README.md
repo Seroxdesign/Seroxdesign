@@ -1,15 +1,18 @@
-## Welcome to my profile! 👋
+# Welcome to my profile! 👋
 
-**Seroxdesign/Seroxdesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a fullstack software engineer with a broad range of interests and skills.
 
-Here are some ideas to get you started:
+### Tools I've worked with 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- HTML5
+- CSS / SCSS / TAILWINDCSS
+- Javascript / Typescript
+- React / Material UI / Chakra UI
+- Next / Firebase / Node JS
+- Puppeteer
+
+### Tools I've studied
+
+ - Ruby
+ - Rust
 
