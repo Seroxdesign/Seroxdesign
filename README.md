@@ -15,4 +15,5 @@ I am a fullstack software engineer with a broad range of interests and skills.
 
  - Ruby
  - Rust
+ - SQL
 
