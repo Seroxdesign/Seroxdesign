@@ -4,4 +4,4 @@ I am a software engineer, with experience building web3 applications.
 
 [Podcast](https://open.spotify.com/show/2HfqI2dFN85uLLFwGqEk0d?si=8806d5fe93f647ed)
 
-<a href="https://gitroll.io/profile/uYNJVdTpjeGcsCSetMR7SEtNGtgE3" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uYNJVdTpjeGcsCSetMR7SEtNGtgE3" alt="GitRoll Profile Badge"/></a>
+![image](https://github.com/Seroxdesign/Seroxdesign/assets/69639595/2b16d9f6-c80a-4cd6-8543-1450f34f2198)
